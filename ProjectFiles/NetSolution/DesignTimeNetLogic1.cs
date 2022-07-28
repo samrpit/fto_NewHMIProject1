@@ -17,6 +17,6 @@ public class DesignTimeNetLogic1 : BaseNetLogic
     public void Method1()
     {
         // Insert code to be executed by the method
-        console.log("something);
+        console.log("something");
     }
 }
